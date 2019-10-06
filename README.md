@@ -109,7 +109,7 @@ see examples directory for example programs.
 ## License
 
 This library is licensed under the GNU Lesser General Public License v3.0
-See the [LICENSE.md](LICENSE.md) file.
+See the [LICENSE.txt](LICENSE.txt) file.
 
 
 
