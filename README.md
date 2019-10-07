@@ -16,13 +16,13 @@ Mega:        4096 bytes (ATmega1280 and ATmega2560)
 
 ## Installing
 
-Option 1. Clone this repository into your libraries directory
+Option 1. Download as ZIP and extract it into your libraries directory
+
+Option 2. Clone this repository into your libraries directory
 
 ```
 git clone https://github.com/wceballos/Combination_Arduino_Library.git
 ```
-
-Option 2. Download as ZIP and extract it into your libraries directory
 
 Option 3. Read this guide
 
@@ -110,8 +110,3 @@ see examples directory for example programs.
 
 This library is licensed under the GNU Lesser General Public License v3.0
 See the [LICENSE.txt](LICENSE.txt) file.
-
-
-
-
-
