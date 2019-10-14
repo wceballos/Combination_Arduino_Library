@@ -104,7 +104,7 @@ Combination<int> myCombo(SIZE);
 bool isCorrect = myCombo.equals(userInput);
 ```
 
-see examples directory for example programs.
+See examples directory for example programs.
 
 ## License
 
